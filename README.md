@@ -14,9 +14,6 @@ just call me Silva! I am a passionate Artificial Intelligence, Machine Learning,
 
 > **Languages:** Indonesian and English
 
-📊 **My GitHub Performance:**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
 📣 **Let's Network!**  
 - **LinkedIn:** https://www.linkedin.com/in/adinda-silvana 
 - **Portfolio:** github.com/silvana-adinda/
