@@ -19,4 +19,4 @@ just call me Silva! I am a passionate Artificial Intelligence, Machine Learning,
 
 📣 **Let's Network!**  
 - **LinkedIn:** https://www.linkedin.com/in/adinda-silvana 
-- **Portfolio:** github.com/silvana-adinda/silvana-adinda
+- **Portfolio:** github.com/silvana-adinda/
