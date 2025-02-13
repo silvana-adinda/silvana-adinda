@@ -4,9 +4,10 @@ just call me Silva! I am a passionate **Human-Computer Interaction**, sub area: 
 
 - 📫 Get in touch: adindasilvanadewi@gmail.com
 - ⚡ A bit of trivia: I Love Reading, Researching and Creating!  
-> **🛠️ Technical, Technologies & Instruments I Work With:**
+- 🛠️ Technical, Technologies & Instruments I Work With:
    - **Programming Languages:** Python,
    - **Developer Tools:** Git, Visual Studio, VS Code, Figma.
+
 > **Soft Skills:** Leadership, Teamwork, Communication, Time Management, Creativity, Problem-Solving, Analytical Thinking, Continuous Improvement, Detail Oriented
 
 > **Languages:** Indonesian and English
