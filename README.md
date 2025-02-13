@@ -20,3 +20,4 @@ Leadership, Teamwork, Communication, Time Management, Creativity, Problem-Solvin
 📣 **Let's Network!**  
 - **LinkedIn:** https://www.linkedin.com/in/adinda-silvana 
 - **Portfolio:** github.com/silvana-adinda/
+- **Instagram:** instagram.com/silvanaadinda_
