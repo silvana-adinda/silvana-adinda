@@ -2,11 +2,9 @@
 
 just call me Silva! I am a passionate **Human-Computer Interaction**, sub area: **UI UX Design & Virtual Reality!** I thrive on innovation and collaboration in tech. Here’s a snapshot of my journey!
 
-📫 **Get in touch:**
-- adindasilvanadewi@gmail.com
+📫 **Get in touch:** - adindasilvanadewi@gmail.com
 
-⚡ **A bit of trivia:**
-- I Love Reading, Researching and Creating!  
+⚡ **A bit of trivia:** - I Love Reading, Researching and Creating!  
 
 🛠️ **Technical, Technologies & Instruments I Work With:**
    - **Programming Languages:** Python,
