@@ -18,6 +18,6 @@ Leadership, Teamwork, Communication, Time Management, Creativity, Problem-Solvin
 > **Languages:** Indonesian and English
 
 📣 **Let's Network!**  
-- **LinkedIn:** https://www.linkedin.com/in/adinda-silvana 
+- **LinkedIn:** linkedin.com/in/adinda-silvana 
 - **Portfolio:** github.com/silvana-adinda/
 - **Instagram:** instagram.com/silvanaadinda_ 
